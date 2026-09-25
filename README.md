@@ -2,7 +2,7 @@
   - Criar repositorio no GitHub
   - Criar pasta no computador
   - Iniciar o git com o comando "git init"
-  - Vincular com o gitHub "git remote add origin <link>"
+  - Vincular com o gitHub "git remote add origin \<link\>"
   - Subir a branch com todo os commits usando "git push -u origin <nome da branch>"
 
   
