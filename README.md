@@ -14,7 +14,7 @@
    - git push 
 
   # Receber pacotes do github
-    - git pull 
+   - git pull 
     
   # Configurações
    - Configurar nome de usuário usando "git config --global user.name "Nome""
