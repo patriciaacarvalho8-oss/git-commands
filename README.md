@@ -13,13 +13,13 @@
   # Enviar pacotes ao github
    - git push 
 
-   # Receber pacotes do github
+  # Receber pacotes do github
     - git pull 
     
-    # Configurações
-     - Configurar nome de usuário usando "git config --global user.name "Nome""
-     - Configurar email de usuário usando "git config --global user.email "email""
+  # Configurações
+   - Configurar nome de usuário usando "git config --global user.name "Nome""
+   - Configurar email de usuário usando "git config --global user.email "email""
 
-     # Comandos de branch 
-      - Criar nova branch "git branch\<nome\>"
-      -Mudar de branch "git checkout \<nome\>"
+  # Comandos de branch 
+   - Criar nova branch "git branch\<nome\>"
+   -Mudar de branch "git checkout \<nome\>" 
